@@ -1,5 +1,3 @@
-using System;
-
 namespace Fred.Models
 {
     public class ErrorViewModel
